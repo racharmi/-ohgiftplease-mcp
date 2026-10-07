@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.racharmi/ohgiftplease",
   "title": "OhGiftPlease Gift Discovery",
-  "description": "Person-first gift discovery from OhGiftPlease, with curated gift ideas, guides, categories, and brand discovery.",
+  "description": "Person-first gift discovery from OhGiftPlease with curated ideas, guides, categories, and brands.",
   "version": "1.0.0",
   "repository": {
     "url": "https://github.com/racharmi/-ohgiftplease-mcp",
